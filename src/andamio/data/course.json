@@ -1,70 +1,92 @@
 {
-  "courseTitle": "Andamio Project-Based Learning",
-  "authors": ["Andamio Team"],
-  "modules": [
-    {
-      "id": "101",
-      "title": "How to Learn in Andamio",
-      "slts": [
-        {
-          "id": "101.1",
-          "slt": "I can mint an Andamio Learner Token."
-        },
-        {
-          "id": "101.2",
-          "slt": "I can commit to an Assignment."
-        },
-        {
-          "id": "101.3",
-          "slt": "I can see an on-chain record of my completed Assignment."
-        }
-      ]
-    },
-    {
-      "id": "102",
-      "title": "Markdown Content",
-      "slts": [
-        {
-          "id": "102.1",
-          "slt": "I can write Lessons with Markdown."
-        },
-        {
-          "id": "102.2",
-          "slt": "I can add changes to a public repository."
-        }
-      ]
-    },
-    {
-      "id": "201",
-      "title": "Make as many Modules as you need.",
-      "slts": [
-        {
-          "id": "201.1",
-          "slt": "I can write a Student Learning Target (SLT)."
-        },
-        {
-          "id": "201.2",
-          "slt": "I can write another SLT."
-        },
-        {
-          "id": "201.3",
-          "slt": "I can write as many SLTs as needed, for as many Modules as my Course requires."
-        }
-      ]
-    },
-    {
-      "id": "301",
-      "title": "Another Module",
-      "slts": [
-        {
-          "id": "301.1",
-          "slt": "I can create additional course modules."
-        },
-        {
-          "id": "301.2",
-          "slt": "I can use Module IDs to sequence course modules."
-        }
-      ]
-    }
-  ]
+	"courseTitle": "DeepFunding Academy - Phase 1: Genesis",
+	"authors": ["Ese", "Inés", "Rafael", "Sucren", "Ubio"],
+	"modules": [
+		{
+			"id": "101",
+			"title": "Navigating DeepFunding Academy",
+			"slts": [
+				{
+					"id": "101.1",
+					"slt": "I know where to introduce myself and ask questions to the DFA Community."
+				},
+				{
+					"id": "101.2",
+					"slt": "I can create a Nami wallet and connect it to Preprod."
+				},
+				{
+					"id": "101.3",
+					"slt": "I can mint an DFA Course Token."
+				}
+			]
+		},
+		{
+			"id": "102",
+			"title": "Understanding Deep Funding and SingularityNET",
+			"slts": [
+				{
+					"id": "102.1",
+					"slt": "I know where to learn about Deep Funding."
+				},
+				{
+					"id": "102.2",
+					"slt": "I know where to find documentation about funding Rounds and the different Project Pools."
+				},
+				{
+					"id": "102.3",
+					"slt": "I can share my opinion of DeepFunding and SingularityNET’s mission and vision with the DeepFunding Academy community."
+				}
+			]
+		},
+		{
+			"id": "201",
+			"title": "Getting Started as a Proposer in Deep Funding",
+			"slts": [
+				{
+					"id": "201.1",
+					"slt": "I resonate with the vision and mission of the Deep Funding ecosystem"
+				},
+				{
+					"id": "201.2",
+					"slt": "I can write a consistent and eligible proposal."
+				},
+				{
+					"id": "201.3",
+					"slt": "I can design a coherent Milestone Budget."
+				}
+			]
+		},
+		{
+			"id": "202",
+			"title": "Becoming a Reviewer in Deep Funding",
+			"slts": [
+				{
+					"id": "202.1",
+					"slt": "I can write a high-quality review of a proposal."
+				},
+				{
+					"id": "202.2",
+					"slt": "I can follow the DFA guidelines when reviewing a proposal."
+				},
+				{
+					"id": "202.3",
+					"slt": "I know the quality standards and Deep Funding mission for proposal eligibility approval"
+				}
+			]
+		},
+		{
+			"id": "203",
+			"title": "Participating in Voting on Deep Funding",
+			"slts": [
+				{
+					"id": "203.1",
+					"slt": "I can vote in a Deep Funding Round."
+				},
+				{
+					"id": "203.2",
+					"slt": "I can calculate my voting power on Deep Funding."
+				}
+			]
+		}
+	]
 }

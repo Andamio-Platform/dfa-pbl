@@ -1,12 +1,12 @@
 ---
 {
-  'title': 'Welcome to the DeepFunding Academy',
-  'slt': ['101.1', '101.2', '101.3'],
-  'type': 'ModuleOverview',
-  'description': '',
-  'videoURL': '',
-  'lastEdited': '',
-  'author': 'Ese Williams',
+  "title": "Module 101: Welcome to the DeepFunding Academy",
+  "slt": ["101.1", "101.2", "101.3"],
+  "type": "ModuleOverview",
+  "description": "",
+  "videoURL": "",
+  "lastEdited": "",
+  "author": "Ese Williams",
 }
 ---
 
@@ -22,7 +22,7 @@ As you embark on this learning adventure, utilize the sidebar for effortless nav
 
 To commence your Deep Funding Academy experience, navigate to Lesson 1 using the sidebar or by tapping the button below.
 
-# **Lesson 1 Course Overwiev**
+# **Lesson 1 Course Overview**
 
 Lesson one is the building block of everything DF Academy, How to interact with the community where to go for support and how to Engage fully and confidently in the deff Funding and SingulatiyNet ecosystem
 

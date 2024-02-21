@@ -1,12 +1,12 @@
 ---
 {
-  'title': 'Participating in Voting in DeepFunding',
-  'slt': ['203.1', '203.2'],
-  'type': 'ModuleOverview',
-  'description': '',
-  'videoURL': '',
-  'lastEdited': '',
-  'author': 'Felix',
+  "title": "Participating in Voting in DeepFunding",
+  "slt": ["203.1", "203.2"],
+  "type": "ModuleOverview",
+  "description": "",
+  "videoURL": "",
+  "lastEdited": "",
+  "author": "Felix",
 }
 ---
 

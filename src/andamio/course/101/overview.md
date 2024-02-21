@@ -2,7 +2,7 @@
 {
   'title': 'Welcome to the DeepFunding Academy',
   'slt': ['101.1', '101.2', '101.3'],
-  'type': 'Overview',
+  'type': 'ModuleOverview',
   'description': '',
   'videoURL': '',
   'lastEdited': '',

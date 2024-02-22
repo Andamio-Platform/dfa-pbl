@@ -6,7 +6,7 @@
   "description": "",
   "videoURL": "",
   "lastEdited": "",
-  "author": "Ese Williams",
+  "author": "Ese Williams"
 }
 ---
 

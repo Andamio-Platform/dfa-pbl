@@ -6,7 +6,7 @@
   "description": "",
   "videoURL": "",
   "lastEdited": "",
-  "author": "Felix",
+  "author": "Felix"
 }
 ---
 

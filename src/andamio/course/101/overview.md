@@ -10,7 +10,7 @@
 }
 ---
 
-# **Welcome to Deep Funding Academy - Phase 1: Genesis!**
+### **Module 101: Welcome to Deep Funding Academy - Phase 1: Genesis!**
 
 Greetings, participants! We are excited to welcome you to Deep Funding Academy, where exploration meets expertise in the fascinating world of AI
 

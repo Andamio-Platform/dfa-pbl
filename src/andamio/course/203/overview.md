@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Participating in Voting in DeepFunding",
+  "title": "Module 203: Participating in Voting in DeepFunding",
   "slt": ["203.1", "203.2"],
   "type": "ModuleOverview",
   "description": "",
@@ -10,7 +10,7 @@
 }
 ---
 
-### Participating in Voting on Deep Funding
+### **Module 203: Participating in Voting in DeepFunding**
 
 #### Student Learning Targets
 

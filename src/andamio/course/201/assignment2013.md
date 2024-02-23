@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Assignment 201.3: Share some thoughts on DeepFunding",
+  "title": "Create a proposal budget",
   "slt": ["201.3"],
   "type": "Assignment",
   "description": "",

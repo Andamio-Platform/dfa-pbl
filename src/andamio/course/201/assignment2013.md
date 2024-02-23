@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Create a proposal budget",
+  "title": "Assignment 201.3: Create a proposal budget",
   "slt": ["201.3"],
   "type": "Assignment",
   "description": "",

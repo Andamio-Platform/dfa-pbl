@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Assignment: Share some thoughts on DeepFunding",
+  "title": "Assignment 201.2: Share some thoughts on DeepFunding",
   "slt": ["201.2"],
   "type": "Assignment",
   "description": "",

@@ -14,7 +14,7 @@
 
 Greetings, participants! We are excited to welcome you to Deep Funding Academy, where exploration meets expertise in the fascinating world of AI
 
-Deep Funding Academy operates on a Project-Based Learning (PBL) model, encouraging active learning through hands-on projects. Just like Plutus PBL 2023, our modules start with clear objectives known as Student Learning Targets (SLTs).
+Deep Funding Academy operates on a Project-Based Learning (PBL) model, encouraging active learning through hands-on projects. Just like [Plutus PBL 2023](https://plutuspbl.io/), our modules start with clear objectives known as Student Learning Targets (SLTs).
 
 In the spirit of mastery, There’s a status bar at the top of each page, aligned with the SLTs. This visual indicator reflects your progress and accomplishments, offering insights into your journey through the course. Lesson 1 will provide detailed insights into mastering these SLTs effectively.
 

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Module 201: Getting started as a proposer in DeepFunding",
+  "title": "Module 201: Getting started as a proposer in Deep Funding",
   "slt": ["201.1", "201.2", "201.3"],
   "type": "ModuleOverview",
   "description": "",
@@ -10,7 +10,7 @@
 }
 ---
 
-### **Module 201: Getting started as a proposer in DeepFunding**
+### **Module 201: Getting started as a proposer in Deep Funding**
 
 This module is designed to guide aspiring proposers through the intricacies of the Deep Funding ecosystem. This module is structured into three critical lessons, each aimed at equipping you with the knowledge, skills, and insights necessary to navigate the proposal process successfully.
 

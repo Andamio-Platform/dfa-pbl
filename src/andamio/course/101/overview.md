@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Module 101: Welcome to the DeepFunding Academy",
+  "title": "Module 101: Welcome to the Deep Funding Academy",
   "slt": ["101.1", "101.2", "101.3"],
   "type": "ModuleOverview",
   "description": "",
@@ -24,7 +24,7 @@ To commence your Deep Funding Academy experience, navigate to Lesson 1 using the
 
 # **Lesson 1 Course Overview**
 
-Lesson one is the building block of the DeepFunding Academy: how to interact with the community, where to go for support, and how to engage fully and confidently in the DeepFunding and SingulatiyNet ecosystem.
+Lesson one is the building block of the Deep Funding Academy: how to interact with the community, where to go for support, and how to engage fully and confidently in the Deep Funding and SingulatiyNet ecosystem.
 
 # **Lesson 101**
 
@@ -32,7 +32,7 @@ Navigating the Deep Funding Academy
 
 #### **Overview:**
 
-Hello, DFA elite. This is the beginning of your insightful learning experience at the DeepFunding Academy.
+Hello, DFA elite. This is the beginning of your insightful learning experience at the Deep Funding Academy.
 
 Whether you're a beginner or a seasoned explorer, we designed this course to ensure you can confidently navigate the various tools and resources available to you.
 
@@ -51,7 +51,7 @@ Whether you're a beginner or a seasoned explorer, we designed this course to ens
 - Step-by-step guide on minting your very own DFA Course Token.
 - Understand the significance of DFA Course Tokens in your learning journey.
 
-**102.1 Understanding DeepFunding & SingularityNet**
+**102.1 Understanding Deep Funding & SingularityNet**
 
 - Get to understand the Deep Funding and Singularity Net ecosystem
 

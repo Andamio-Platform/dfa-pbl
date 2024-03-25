@@ -10,4 +10,4 @@
 }
 ---
 
-**Task:** Cast your vote in a DeepFunding round.
+**Task:** Cast your vote in a Deep Funding round and provide the hash of the voting transaction here.

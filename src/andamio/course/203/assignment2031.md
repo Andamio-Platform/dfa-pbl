@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Assignment 203.1: Cast your vote",
+  "title": "Cast your vote",
   "slt": ["203.1"],
   "type": "Assignment",
   "description": "",

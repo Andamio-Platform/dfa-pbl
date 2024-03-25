@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Assignment 203.2: Create an account on the DeepFunding Portal",
+  "title": "Create an account on the DeepFunding Portal",
   "slt": ["203.2"],
   "type": "Assignment",
   "description": "",

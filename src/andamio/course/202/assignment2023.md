@@ -10,4 +10,4 @@
 }
 ---
 
-**Task:** Check for 1 eligible project and 1 ineligible project from past submission and state why it was eligible and inelligible.
+**Task:** Check for one eligible project and one ineligible project from past submissions and state why it was eligible and ineligible here.

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Assignment 202.1: Write a review",
+  "title": "Write a review",
   "slt": ["202.1"],
   "type": "Assignment",
   "description": "",

@@ -12,7 +12,7 @@
 
 ### **Module Overview: Becoming a Reviewer in Deep Funding**
 
-This module is designed to guide you through the essentials of crafting high-quality, constructive reviews for proposals within the DeepFunding ecosystem. As a reviewer, your insights and evaluations are invaluable to both proposers and the community at large. Let's dive into what makes a great reviewer and how you can start making an impact with your assessments.
+This module is designed to guide you through the essentials of crafting high-quality, constructive reviews for proposals within the DeepFunding ecosystem. As a reviewer, your insights and evaluations are invaluable to proposers and the community at large. Let's explore what makes a great reviewer and how you can start making an impact with your assessments.
 
 **202.1: Writing a High-Quality Review of a Proposal**
 
@@ -25,7 +25,7 @@ At the core of deep funding, the proposal review process is about providing valu
 
 **Characteristics of a Good Review**
 
-A good review is always on-topic, engaging with the substance of the proposal rather than veering off into unrelated areas. Originality is key; your review should not be a rehash of existing comments or a copy-paste from other sources. While leveraging tools like ChatGPT can be helpful, your personal touch and unique perspective are what truly count. Aim for a balance in your review, making it neither too brief nor excessively long, to maintain the reader's interest.
+A good review is always on-topic, engaging with the proposal's substance rather than veering off into unrelated areas. Originality is vital; your review should not be a rehash of existing comments or a copy-paste from other sources. While leveraging tools like ChatGPT can be helpful, your personal touch and unique perspective indeed count. Aim for a balance in your review, making it brief and manageable to maintain the reader's interest.
 
 **Crafting Your First Review**
 
@@ -41,7 +41,7 @@ Share your thoughts in the proposal's comment section.
 
 **The DFA Guideline**
 
-The Deep Funding Academy (DFA) guidelines are a compilation of best practices that serve as an ethical compass for reviewers. Adhering to these guidelines will help ensure that your reviews are both effective and responsible. Access the DFA guideline to familiarize yourself with these important principles.
+The Deep Funding Academy (DFA) guidelines are a compilation of best practices that serve as an ethical compass for reviewers. Adhering to these guidelines will help ensure your reviews are effective and responsible. Access the Deep Funding Academy guidelines to familiarize yourself with these essential principles.
 
 **202.3: Quality Standards and Deep Funding Mission for Proposal Eligibility Approval**
 
@@ -51,4 +51,4 @@ As a reviewer, part of your role is to assess whether a proposal meets the stand
 
 - **Pool Theme:** Verify that the proposal aligns with the theme of its designated pool.
 - **Funding Request Amount:** Check that the requested amount is within the pool's specified limits.
-- **Budgeting Structure:** Ensure that the proposal adheres to the pool's budgeting guidelines.
+- **Budgeting Structure:** Ensure the proposal adheres to the pool's budget guidelines.

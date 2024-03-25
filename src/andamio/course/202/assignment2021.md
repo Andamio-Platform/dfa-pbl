@@ -10,4 +10,4 @@
 }
 ---
 
-**Task:** Go to any proposal on the deepfunding platform, write any review to any proposal using the above criteria.
+**Task:** Go to any proposal on the [Deep Funding platform](https://deepfunding.ai/), write a review using the above criteria, and submit it here.

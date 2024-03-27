@@ -4,7 +4,7 @@
   "slt": ["102.1", "102.2", "102.3"],
   "type": "ModuleOverview",
   "description": "",
-  "videoURL": "",
+  "videoURL": "https://www.youtube.com/watch?v=8GzPto0w67Q",
   "lastEdited": "02-23-2024",
   "author": "Ines"
 }

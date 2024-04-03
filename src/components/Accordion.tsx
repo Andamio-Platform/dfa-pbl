@@ -1,15 +1,15 @@
-'use client';
+"use client";
 
-import { LMSObjectMetadata } from '@andamiojs/core';
-import { Disclosure } from '@headlessui/react';
-import { ChevronDownIcon } from '@heroicons/react/24/outline';
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
+import { LMSObjectMetadata } from "@andamiojs/core";
+import { Disclosure } from "@headlessui/react";
+import { ChevronDownIcon } from "@heroicons/react/24/outline";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 export default function Accordion({
 	moduleId,
 	moduleTitle,
-	pageList,
+	pageList
 }: {
 	moduleId: string;
 	moduleTitle: string;
@@ -24,19 +24,19 @@ export default function Accordion({
 					{path && (
 						<>
 							<Disclosure.Button
-								className={`w-full mt-2 px-3 py-2 text-primary-content hover:bg-primary-focus ${
+								className={`w-full mt-2 px-3 py-2 text-primary-content hover:bg-info hover:text-primary-content ${
 									path.includes(`/course/module/${moduleId}`)
-										? 'bg-secondary text-secondary-content hover:bg-secondary'
-										: ''
-								} ${open ? '' : ''}`}>
+										? "bg-secondary text-secondary-content hover:text-info"
+										: ""
+								} ${open ? "" : ""}`}>
 								<div
 									className={`flex flex-row justify-between align-middle content-center`}>
 									<span className='text-left'>
-										<text className='font-extrabold'>{moduleId}:</text>{' '}
+										<text className='font-extrabold'>{moduleId}:</text>{" "}
 										{moduleTitle}
 									</span>
 
-									<span className={`${open ? 'hidden' : ''}`}>
+									<span className={`${open ? "hidden" : ""}`}>
 										<ChevronDownIcon className='w-3 h-3' />
 									</span>
 								</div>
@@ -44,14 +44,15 @@ export default function Accordion({
 							<Disclosure.Panel className='text-sm py-2'>
 								{pageList.map((page: LMSObjectMetadata) => (
 									<Link
+										className='hover:text-info'
 										href={`/course/module/${moduleId}/${page.slug}`}
 										key={`page-link-${page.slug}`}>
 										<div
 											key={page.title}
 											className={`pl-5 pr-2 py-2 text-m font-medium hover:pl-6 hover:text-info ${
 												path.includes(`/course/module/${moduleId}/${page.slug}`)
-													? 'bg-primary-focus text-primary-content font-bold pointer-events-none'
-													: ''
+													? "text-primary-content font-bold pointer-events-none"
+													: ""
 											}`}>
 											{page.title}
 										</div>

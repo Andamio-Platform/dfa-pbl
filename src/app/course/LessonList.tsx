@@ -1,6 +1,6 @@
-import { getModuleOverviewData } from '../../lib/getModuleOverviewData';
-import Link from 'next/link';
-import { andamioConfig } from '../../andamio/config';
+import { getModuleOverviewData } from "../../lib/getModuleOverviewData";
+import Link from "next/link";
+import { andamioConfig } from "../../andamio/config";
 
 export default async function LessonList() {
 	const moduleOverviewValues = await getModuleOverviewData();

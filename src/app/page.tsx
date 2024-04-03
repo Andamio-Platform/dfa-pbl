@@ -1,6 +1,6 @@
-import { ChevronRightIcon, CheckIcon } from '@heroicons/react/20/solid';
-import Image from 'next/image';
-import Link from 'next/link';
+import { ChevronRightIcon, CheckIcon } from "@heroicons/react/20/solid";
+import Image from "next/image";
+import Link from "next/link";
 
 export default function HomePage() {
 	return (
@@ -11,7 +11,6 @@ export default function HomePage() {
 						<div className='mt-24 sm:mt-32 lg:mt-16'>
 							<a href='#' className='inline-flex space-x-6'>
 								<span className='inline-flex items-center space-x-2 text-sm font-medium leading-6 text-primary-content'>
-									<span>Coming Soon</span>
 									<ChevronRightIcon
 										className='h-5 w-5 text-gray-500'
 										aria-hidden='true'
@@ -23,10 +22,10 @@ export default function HomePage() {
 							Deep Funding Academy
 						</h1>
 						<div className='flex flex-row gap-5 my-5'>
-							<div className='btn btn-success btn-md'>
+							<div className='btn bg-info btn-md rounded-lg drop-shadow text-black hover:bg-black hover:text-primary-content hover:p-2 hover:border-solid hover:border-white'>
 								<Link href='/course'>Start the Course</Link>
 							</div>
-							<div className='btn btn-success btn-md'>
+							<div className='btn bg-info btn-md rounded-lg drop-shadow text-black hover:bg-black hover:text-primary-content hover:p-2 hover:border-solid hover:border-white'>
 								<a href='https://deepfunding.ai/' className=''>
 									Learn More
 								</a>

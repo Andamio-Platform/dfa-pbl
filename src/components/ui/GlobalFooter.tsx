@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/image";
 
 export default function GlobalFooter() {
 	return (
@@ -12,14 +12,28 @@ export default function GlobalFooter() {
 			/>
 			<nav>
 				<header className='footer-title'>SingularityNet</header>
-				<a className='link link-hover'>Discord</a>
-				<a className='link link-hover'>Twitter</a>
-				<a className='link link-hover'>Roadmap</a>
+				<a className='link link-hover' href='https://discord.gg/snet'>
+					Discord
+				</a>
+				<a
+					className='link link-hover'
+					href='https://twitter.com/SingularityNET'>
+					Twitter
+				</a>
+				<a
+					className='link link-hover'
+					href='https://singularitynet.io/roadmap/'>
+					Roadmap
+				</a>
 			</nav>
 			<nav>
 				<header className='footer-title'>Deep Funding Academy</header>
-				<a className='link link-hover'>Discord</a>
-				<a className='link link-hover'>Linktree</a>
+				<a className='link link-hover' href='https://twitter.com/DeepFunding'>
+					Twitter
+				</a>
+				<a className='link link-hover' href='https://deepfunding.ai/'>
+					Website
+				</a>
 			</nav>
 		</footer>
 	);

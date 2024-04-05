@@ -48,7 +48,7 @@ const MintLearnerToken = (props: { closeModal: () => void }) => {
 						closeModal={props.closeModal}
 					/>
 				) : null}
-				<div className='flex flex-col p-10 bg-secondary'>
+				<div className='flex flex-col p-10'>
 					<div className='mb-4 text-2xl font-bold'>Mint a Learner Token</div>
 					<div className='mb-4 text-lg font-bold'>What is a Learner Token?</div>
 					<div className='mb-4 text-base'>
@@ -78,7 +78,7 @@ const MintLearnerToken = (props: { closeModal: () => void }) => {
 								name='tokenAlias'
 								placeholder='enter your token alias'
 								onChange={handleInputChange}
-								className='bg-secondary w-full my-2 p-2 text-secondary-content font-mono text-base'
+								className='bg-neutral w-full my-2 p-2 text-primary-content font-mono text-base'
 							/>
 						</form>
 					</div>

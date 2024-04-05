@@ -26,10 +26,10 @@ const config: Config = {
 			"luxury",
 			{
 				andamio: {
-					primary: "#0C0D27",
+					primary: "#0F0F23", // dark purple
 					"primary-content": "#fff",
 					"primary-focus": "#44108E", // purple
-					secondary: "#F4F3ED",
+					secondary: "#FDF9F2",
 					"secondary-content": "#2D3339",
 					"secondary-focus": "#EFEEE6",
 					neutral: "#8D91C7", // for lesson content

@@ -32,7 +32,7 @@ const config: Config = {
 					secondary: "#FDF9F2",
 					"secondary-content": "#2D3339",
 					"secondary-focus": "#EFEEE6",
-					neutral: "#8D91C7", // for lesson content
+					neutral: "#000", // for lesson content
 					accent: "#EF7DF5",
 					"accent-content": "#D6D7EB",
 					info: "#FFB100", // yellow

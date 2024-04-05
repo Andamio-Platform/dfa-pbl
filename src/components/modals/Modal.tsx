@@ -1,5 +1,5 @@
-import React from 'react';
-import styles from '../../styles/Modal.module.css';
+import React from "react";
+import styles from "../../styles/Modal.module.css";
 
 interface ModalProps {
 	isOpen: boolean;
@@ -12,7 +12,7 @@ const Modal: React.FC<ModalProps> = ({ isOpen, closeModal, content }) => {
 
 	return (
 		<div className={styles.modalBackdrop}>
-			<div className='card text-primary-content border border-info z-30 p-5 w-1/2'>
+			<div className='card border border-info z-30 p-5 w-1/2 bg-secondary text-neutral'>
 				<div className={styles.closeButton} onClick={closeModal}>
 					<div className='text-lg'>&times;</div>
 				</div>

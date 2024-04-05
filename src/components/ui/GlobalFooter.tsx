@@ -27,11 +27,25 @@ export default function GlobalFooter() {
 				</a>
 			</nav>
 			<nav>
+				<header className='footer-title'>Deep Funding</header>
+				<a className='link link-hover' href='https://deepfunding.ai/'>
+					Website
+				</a>
+				<a className='link link-hover' href='https://twitter.com/DeepFunding'>
+					Twitter
+				</a>
+				<a
+					className='link link-hover'
+					href='https://www.youtube.com/@deepfunding'>
+					YouTube
+				</a>
+			</nav>
+			<nav>
 				<header className='footer-title'>Deep Funding Academy</header>
 				<a className='link link-hover' href='https://twitter.com/DeepFunding'>
 					Twitter
 				</a>
-				<a className='link link-hover' href='https://deepfunding.ai/'>
+				<a className='link link-hover' href='https://deepfunding.academy/'>
 					Website
 				</a>
 			</nav>

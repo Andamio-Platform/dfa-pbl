@@ -20,8 +20,7 @@ Deep Funding is the SingularityNET Community fund for creators and innovators lo
 
 The Community selects eligible proposals, and through a vibrant voting process where community members can comment, correct, and edit proposals, decisions are made on which projects will receive funding. Deep Funding has implemented a quadratic voting mechanism intertwined with a reputation system based on the wallet's history record, allowing every project, especially new members, access to funding opportunities. In the last funding round, Round 3, there were 117 eligible projects, over 220 wallets voting, and more than 1.5 million AGIX tokens were distributed among 43 funded projects.
 
-**[SingularityNET CEO Dr. Ben Goertzel on launching Deep Funding
-](https://youtu.be/8GzPto0w67Q?si=qUJ73jpWcUnbKqci)**
+**[SingularityNET CEO Dr. Ben Goertzel on launching Deep Funding](https://youtu.be/8GzPto0w67Q?si=qUJ73jpWcUnbKqci)**
 
 ## Overview of the SingularityNET Ecosystem
 

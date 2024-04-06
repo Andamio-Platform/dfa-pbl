@@ -1,4 +1,3 @@
-import { ChevronRightIcon, CheckIcon } from "@heroicons/react/20/solid";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -22,7 +21,7 @@ export default function HomePage() {
 					</div>
 					<div className='mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32'>
 						<div className='max-w-3xl flex-none rounded-xl p-3 sm:max-w-5xl lg:max-w-none'>
-							<Link href='/https://deepfunding.ai/'>
+							<Link href='https://deepfunding.ai/'>
 								<img
 									src='/deepfunding-website-screenshot.png'
 									alt='App screenshot'

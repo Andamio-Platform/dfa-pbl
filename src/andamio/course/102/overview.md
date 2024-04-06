@@ -10,20 +10,20 @@
 }
 ---
 
-### **Module 102: Understanding Deep Funding and SingularityNET**
+# Module 102: Understanding Deep Funding and SingularityNET
 
 SingularityNET's most impactful initiative is the Deep Funding program. SingularityNET is about Community and doing things together, and the Deep Funding project is precisely about that. Doing things together in SingularityNET is not just a catchy slogan for social media; it's a real commitment, a way of getting things done.
 
-_What is Deep Funding?_
+## What is Deep Funding?
 
 Deep Funding is the SingularityNET Community fund for creators and innovators looking to carry out and bring their projects to life. To support and fund AI projects and products that will later become part of their decentralized marketplace, SingularityNET allocates 30% of the minted AGIX tokens on the Cardano and Ethereum networks, distributed in funding rounds throughout the year.
 
 The Community selects eligible proposals, and through a vibrant voting process where community members can comment, correct, and edit proposals, decisions are made on which projects will receive funding. Deep Funding has implemented a quadratic voting mechanism intertwined with a reputation system based on the wallet's history record, allowing every project, especially new members, access to funding opportunities. In the last funding round, Round 3, there were 117 eligible projects, over 220 wallets voting, and more than 1.5 million AGIX tokens were distributed among 43 funded projects.
 
-[SingularityNET CEO Dr. Ben Goertzel on launching Deep Funding
-](https://youtu.be/8GzPto0w67Q?si=qUJ73jpWcUnbKqci)
+**[SingularityNET CEO Dr. Ben Goertzel on launching Deep Funding
+](https://youtu.be/8GzPto0w67Q?si=qUJ73jpWcUnbKqci)**
 
-_Overview of the SingularityNET Ecosystem_
+## Overview of the SingularityNET Ecosystem
 
 SingularityNET is a groundbreaking decentralized artificial intelligence (AI) marketplace. Leveraging the power of blockchain technology, It provides unrestricted access to a vast array of algorithms and applications. But SingularityNET is much more than a decentralized marketplace; it is an entire universe and, with all its complexity, embraces a variety of different projects and spin-offs on Decentralized Finance (DeFi), Robotics, Biotechnology longevity, Media, Games, Art and Entertainment, and Enterprise AI.
 

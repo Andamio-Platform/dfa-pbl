@@ -12,4 +12,6 @@
 
 # Provide evidence of completion
 
-In order to complete this module, simply provide a link to a document with evidence that you've completed the tasks outlined in **Lessons 202.1 and 202.3**.
+To complete this module, provide a link to a document with your proposal reviews from **Lesson 202.1**, **Lesson 202.2**, and **Lesson 202.3**.
+
+Be sure to submit different reviews, ensuring they follow the task instructions for their respective lessons.

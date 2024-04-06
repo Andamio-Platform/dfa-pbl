@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Share some thoughts on Deep Funding",
+  "title": "Show your work",
   "slt": ["201.1"],
   "type": "Assignment",
   "description": "",
@@ -10,6 +10,8 @@
 }
 ---
 
-**Task 1:** Share the video from Lesson 201.1 on Twitter, with a small text explaining what is Deep Funding, and naming an idea you believe could be funded by Deep Funding.
+# Provide evidence of completion
 
-**Task 2:** Answer this Quizz about Deep Funding
+In order to complete this module, simply provide a link with evidence that you've completed the tasks outlined in **Lessons 201.1 - 201.3**.
+
+This can be as simple as a link to a google doc with a screenshot of your tweet, together with your written proposal and your budget.

@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Write a review",
+  "title": "Be a Deep Funding reviewer",
   "slt": ["202.1"],
   "type": "Assignment",
   "description": "",
@@ -10,4 +10,6 @@
 }
 ---
 
-**Task:** Go to any proposal on the [Deep Funding platform](https://deepfunding.ai/), write a review using the above criteria, and submit it here.
+# Provide evidence of completion
+
+In order to complete this module, simply provide a link to a document with evidence that you've completed the tasks outlined in **Lessons 202.1 and 202.3**.

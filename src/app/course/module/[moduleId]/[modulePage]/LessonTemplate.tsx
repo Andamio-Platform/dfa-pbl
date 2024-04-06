@@ -12,7 +12,7 @@ const LessonTemplate = ({
 	return (
 		<div>
 			<div className={styles.coursePageContainer}>
-				<div className='card bg-secondary text-secondary-content shadow-xl p-5'>
+				<div className='card bg-secondary text-secondary-content shadow-xl p-5 rounded-lg drop-shadow'>
 					<div>
 						<div className={styles.slt}>
 							<span className='text-info'>SLT {frontmatter.slt}:</span>{" "}

@@ -20,7 +20,7 @@ export default async function ModuleOverviewTemplate({
 	return (
 		<>
 			<div className={styles.coursePageContainer}>
-				<div className='card bg-secondary text-secondary-content shadow-xl p-5'>
+				<div className='card bg-secondary text-secondary-content shadow-xl p-5 rounded-lg drop-shadow'>
 					<div className='grid grid-cols-3 py-3'>
 						<header className='col-span-2'>
 							<h3 className='text-accent'>Welcome to Module {moduleId}</h3>

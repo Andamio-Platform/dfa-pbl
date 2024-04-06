@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Minting a DFA Learner Token",
+  "title": "Minting your DFA Learner Token",
   "slt": ["101.2"],
   "type": "Assignment",
   "description": "",
@@ -12,35 +12,45 @@
 
 # Mint your DFA Learner Token
 
+## Lesson Objective
+
+In this lesson, you'll journey into blockchain and decentralized finance by minting your DFA Learner Token. This token represents your engagement and achievements within the Deep Funding Academy, utilizing the innovative SingularityNet ecosystem and the Cardano blockchain.
+
+## Lesson Objective
+
+By completing this lesson, you will mint your DFA Learner Token and gain hands-on experience with NFTs, understand the basics of blockchain technology, and explore the utility and significance of digital tokens in educational and decentralized finance contexts.
+
 ## What is a DFA Learner Token?
 
 The Deep Funding Academy supports individuals and organizations in learning about the SingularityNet ecosystem, Deep Funding, and how to contribute. Anyone who holds a "Learner Token" can commit to assignments.
 
 When you complete an assignment, and a course facilitator approves it, the completion is stored on-chain and displayed on your DFA learner token.
 
-New possibilities emerge when your DFA Learner Token contains evidence of what you have learned. For example, you can commit to more challenging assignments.
-
-After completing the necessary prerequisites, you can use your DFA Learner Token to mint a Contributor Token, which allows you to commit to projects and earn rewards within an organization.
+When your DFA Learner Token shows what you have learned, new possibilities emerge. For example, you can commit to more challenging assignments.
 
 In this course, we will show you how everything works. To get started, let's mint your DFA Learner Token.
 
-### Step by Step: How to Mint an Andamio PBL Learner Token
+## Before You Start
+
+Take some time to research the specifics of the Cardano blockchain and its Preprod testnet. Learn why testnets are crucial for blockchain development and experimentation.
+
+## How to Mint your DFA Learner Token
 
 Your DFA Learner Token will be your record of progress in this course. You can give it any name you'd like. It will be as public as any other NFT, so think carefully about how much privacy you want on-chain. For now, an alias is best.
 
-#### Step 1: Connect a browser wallet to the Cardano Preproduction Testnet
+### Setting Up your Nami Wallet
 
-This Deep Funding Academy course is built on Cardano's Preproduction Testnet, often called "preProd". We are providing this course on preProd so you can learn how to use the Deep Funding Academy without spending real Ada.
+Follow the instructions from Lesson 101.2 to set up your Nami wallet and connect it to the Cardano Preprod testnet. Document the process and any challenges you encounter.
 
-Here is how to connect.
+### Acquiring Test Ada
 
-#### Step 2: Get some Test Ada
-
-To participate in the DeepFunding Academy, you need some test Ada. Navigate to the **[Cardano Testnets faucet](https://docs.cardano.org/cardano-testnet/tools/faucet/)** to get some free "tAda".
+Navigate to the **[Cardano Testnets faucet](https://docs.cardano.org/cardano-testnet/tools/faucet/)** to acquire test Ada. Reflect on the importance of test currencies in blockchain education and development.
 
 Here's a **[quick guide](https://youtu.be/CnXzI4B_pmU)** on how to get tAda for the preProd Network from the Cardano Testnets faucet.
 
-#### Step 3: Mint your Learner Token!
+### Minting the Learner Token
+
+With your wallet set up and funded with test Ada, mint your DFA Learner Token. This practical step involves interacting with a smart contract on the blockchain.
 
 Click **[here](https://dfa-pbl.vercel.app/course-management/roles/learner/dashboard)** to see your `Learner Dashboard`. After you connect your Nami wallet, click the button that says "Mint Your Learner Token." Give it a try!
 

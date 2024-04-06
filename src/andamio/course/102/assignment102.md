@@ -10,10 +10,8 @@
 }
 ---
 
-# Share your opinion of Deep Funding and SingularityNET
+# Provide evidence of completion
 
-Building Community is not just a slogan for social media; building Community is our way of doing things.
+To complete this module, provide a link with evidence that you've completed the tasks outlined in **Lessons 102.1 and 102.2**.
 
-In order to complete this module, simply provide a link with evidence that you've completed the tasks outlined in **Lessons 102.1 and 102.2**.
-
-This can be as simple as a link to a google doc with screenshots of your post on Discord and Twitter.
+This can be as simple as a link to a Google Doc with screenshots of your interactions on Twitter and Discord, together with your mock proposal.

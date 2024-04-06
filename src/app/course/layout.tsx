@@ -1,16 +1,16 @@
-import type { Metadata } from 'next';
-import { Suspense } from 'react';
-import Sidebar from '../../components/Sidebar';
-import Loading from '../Loading';
-import ModuleBreadcrumbs from './module/[moduleId]/[modulePage]/ModuleBreadcrumbs';
+import type { Metadata } from "next";
+import { Suspense } from "react";
+import Sidebar from "../../components/Sidebar";
+import Loading from "../Loading";
+import ModuleBreadcrumbs from "./module/[moduleId]/[modulePage]/ModuleBreadcrumbs";
 
 export const metadata: Metadata = {
-	title: 'DeepFunding Academy PBL Course',
-	description: 'Learn about DeepFunding Academy',
+	title: "DeepFunding Academy PBL Course",
+	description: "Learn about DeepFunding Academy"
 };
 
 export default async function CourseLayout({
-	children,
+	children
 }: {
 	children: React.ReactNode;
 }) {

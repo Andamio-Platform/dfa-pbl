@@ -12,6 +12,6 @@
 
 # Provide evidence of completion
 
-In order to complete this module, simply provide a link with evidence that you've completed the tasks outlined in **Lessons 201.1 - 201.3**.
+In order to complete this module, simply provide a link with evidence that you've completed the tasks outlined in **Lessons 201.1 through 201.3**.
 
-This can be as simple as a link to a google doc with a screenshot of your tweet, together with your written proposal and your budget.
+This should be a link to a google doc with a screenshot of your tweet, your concept note, your written proposal, milestone and budget.

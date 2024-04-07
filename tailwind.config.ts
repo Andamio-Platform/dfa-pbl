@@ -26,9 +26,9 @@ const config: Config = {
 			"luxury",
 			{
 				andamio: {
-					primary: "#0F0F23", // dark purple
-					"primary-content": "#fff",
-					"primary-focus": "#44108E", // purple
+					primary: "#0F0F23", // rich black
+					"primary-content": "#fff", // white
+					"primary-focus": "#44108E", // indigo
 					secondary: "#FDF9F2",
 					"secondary-content": "#2D3339",
 					"secondary-focus": "#EFEEE6",

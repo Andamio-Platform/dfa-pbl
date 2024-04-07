@@ -16,8 +16,8 @@ const CommitToAssignment = (props: {
 	const [txHash, setTxHash] = useState("");
 	const [errorMessage, setErrorMessage] = useState("");
 	const [studentAssignmentInfo, setStudentAssignmentInfo] = useState("");
-	const isValidUrl = (urlString) => {
-		var urlPattern = new RegExp(
+	const isValidUrl = (urlString: string): boolean => {
+		const urlPattern = new RegExp(
 			"^(https?:\\/\\/)?" + // validate protocol
 				"((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|" + // domain name
 				"((\\d{1,3}\\.){3}\\d{1,3}))" + // OR ip (v4) address
@@ -87,8 +87,8 @@ const CommitToAssignment = (props: {
 							</form>
 						</div>
 						{isValidUrl(studentAssignmentInfo) ||
-						(studentAssignmentInfo.length > 7 &&
-							studentAssignmentInfo.length < 57) ? (
+						(studentAssignmentInfo.length >= 8 &&
+							studentAssignmentInfo.length <= 56) ? (
 							<button
 								className='btn btn-md btn-success rounded-lg drop-shadow p-2'
 								onClick={handleClick}>

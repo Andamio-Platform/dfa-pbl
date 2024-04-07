@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Share your opinion",
+  "title": "Show Your Work",
   "slt": ["102.2"],
   "type": "Assignment",
   "description": "",

@@ -27,12 +27,13 @@ export default function ViewLearnerTokenData() {
 	>(undefined);
 
 	useEffect(() => {
+		let isMounted = true; //Track whether the component is mounted
 		async function getLearnerToken() {
 			const token = await getConnectedTokenAsset(
 				wallet,
 				andamioConfig.config.courseManagementTokens.learnerPolicyID
 			);
-			if (token) {
+			if (token && isMounted) {
 				setConnectedLearnerToken(token.unit);
 			}
 		}
@@ -46,6 +47,10 @@ export default function ViewLearnerTokenData() {
 			getLearnerToken();
 			getConnectedAddress();
 		}
+		// Cleanup function to set isMounted to false when the component unmounts
+		return () => {
+			isMounted = false;
+		};
 	}, [wallet, connected]);
 
 	useEffect(() => {
@@ -251,7 +256,7 @@ export default function ViewLearnerTokenData() {
 									<div className='grid grid-cols-2 lg:grid-cols-3 gap-5'>
 										{learnerReferenceUTxO?.data?.completedAssignments.map(
 											(a: string) => (
-												<CompletedModule moduleId={a} />
+												<CompletedModule key={a} moduleId={a} />
 											)
 										)}
 									</div>

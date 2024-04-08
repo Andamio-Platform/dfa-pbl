@@ -49,7 +49,7 @@ const MintModuleTokenModal = (props: { courseModule: CourseModule }) => {
 				<>
 					<button
 						onClick={openModal}
-						className='btn btn-primary rounded-md drop-shadow'
+						className='btn bg-info text-primary rounded-lg drop-shadow hover:bg-primary hover:text-primary-content hover:scale-105 hover:border-solid hover:border-white'
 						type='button'>
 						Mint this Module Token
 					</button>

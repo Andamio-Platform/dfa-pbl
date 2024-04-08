@@ -24,7 +24,7 @@ export default function Accordion({
 					{path && (
 						<>
 							<Disclosure.Button
-								className={`w-full mt-2 px-3 py-2 text-primary-content hover:bg-info hover:text-primary-content ${
+								className={`w-full mt-2 px-3 py-2 text-primary-content border rounded-lg drop-shadow hover:bg-info hover:text-primary ${
 									path.includes(`/course/module/${moduleId}`)
 										? "bg-secondary text-secondary-content hover:text-info"
 										: ""
@@ -49,7 +49,7 @@ export default function Accordion({
 										key={`page-link-${page.slug}`}>
 										<div
 											key={page.title}
-											className={`pl-5 pr-2 py-2 text-m font-medium hover:pl-6 hover:text-info ${
+											className={`pl-5 pr-2 py-2 text-m font-medium hover:pl-6 hover:bg-info hover:text-primary hover:rounded-lg hover:drop-shadow ${
 												path.includes(`/course/module/${moduleId}/${page.slug}`)
 													? "text-primary-content font-bold pointer-events-none"
 													: ""

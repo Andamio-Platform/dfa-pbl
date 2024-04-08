@@ -10,7 +10,7 @@
 }
 ---
 
-# Welcome to Deep Funding Academy (DFA) - Phase 1: Genesis!
+# Welcome to the Deep Funding Academy (DFA) - Phase 1: Genesis!
 
 Greetings, participants! We are excited to welcome you to the Deep Funding Academy, where exploration meets expertise in the fascinating world of AI.
 

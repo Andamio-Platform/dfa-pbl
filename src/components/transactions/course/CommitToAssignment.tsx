@@ -74,15 +74,15 @@ const CommitToAssignment = (props: {
 				) : null}
 				<div className='grid grid-cols-2 gap-5'>
 					<div className='flex flex-col p-5'>
-						<div className='mb-4 text-lg'>Enter Your Assignment Info:</div>
-						<div className='mb-4 text-base'>
+						<div className='mb-2 text-lg'>Enter Assignment Information</div>
+						<div className='mb-2 text-base'>
 							<form>
 								<input
 									type='text'
 									name='inputStudentAssignmentInfo'
-									placeholder='assignment evidence'
+									placeholder='Assignment Evidence'
 									onChange={handleInputChange}
-									className='bg-neutral w-full my-2 p-2 text-primary-content font-mono text-base'
+									className='bg-primary w-full p-3 text-primary-content font-mono text-base rounded-lg drop-shadow'
 								/>
 							</form>
 						</div>

@@ -16,7 +16,7 @@
 
 In this lesson, you'll journey into blockchain and decentralized finance by minting your DFA Learner Token. This token represents your engagement and achievements within the Deep Funding Academy, utilizing the innovative SingularityNet ecosystem and the Cardano blockchain.
 
-## Lesson Objective
+## Lesson Benefits
 
 By completing this lesson, you will mint your DFA Learner Token and gain hands-on experience with NFTs, understand the basics of blockchain technology, and explore the utility and significance of digital tokens in educational and decentralized finance contexts.
 

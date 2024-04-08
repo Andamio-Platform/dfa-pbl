@@ -5,23 +5,23 @@
 }
 
 .coursePageContainer h1 {
-	@apply text-3xl my-5 font-bold text-secondary-content;
+	@apply text-3xl font-mono text-secondary-content my-5 font-black;
 }
 
 .coursePageContainer h2 {
-	@apply text-2xl mt-5 mb-3 pb-3 border-b border-accent text-secondary-content tracking-wide;
+	@apply font-extrabold text-2xl  text-secondary-content  font-mono my-3;
 }
 
 .coursePageContainer h3 {
-	@apply text-xl my-2 text-secondary-content tracking-wide;
+	@apply text-xl font-bold text-secondary-content  font-mono my-1;
 }
 
 .coursePageContainer h4 {
-	@apply text-lg mt-3 mb-1 text-secondary-content font-bold tracking-wide;
+	@apply text-lg mt-3 mb-1 text-secondary-content font-semibold  font-mono;
 }
 
 .coursePageContainer p {
-	@apply py-3 text-secondary-content;
+	@apply py-3 text-secondary-content text-justify;
 }
 
 .coursePageContainer ul {
@@ -37,7 +37,7 @@
 }
 
 .coursePageContainer a {
-	@apply font-semibold text-blue-800 hover:text-blue-700;
+	@apply font-black text-blue-600 hover:text-orange-500;
 }
 
 .coursePageContainer table {
@@ -62,4 +62,10 @@
 
 .coursePageContainer .slt {
 	@apply bg-primary text-primary-content font-bold text-lg mb-3 p-3 align-middle rounded-lg drop-shadow;
+}
+
+.coursePageContainer img {
+	display: block; /* Makes images block-level to center them easily if needed */
+	margin-left: auto;
+	margin-right: auto; /* Center images within the container */
 }

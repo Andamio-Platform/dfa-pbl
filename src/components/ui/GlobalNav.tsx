@@ -6,7 +6,7 @@ import Link from "next/link";
 import { andamioConfig } from "../../andamio/config";
 
 const GlobalNav = () => (
-	<div className='card text-primary-content font-mono shadow-xl mx-5 mt-5 z-40'>
+	<div className='card text-primary-content font-mono shadow-xl mx-5 mt-5 z-40 h-24'>
 		<div className='navbar'>
 			<div className='flex-1'>
 				<Link className='btn btn-ghost normal-case text-lg' href='/'>

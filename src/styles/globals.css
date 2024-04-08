@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* styles/globals.css */
+.min-h-screen-minus-header-footer {
+	/* Adjust the values based on the actual height of your header and footer */
+	min-height: calc(100vh - 6rem - 8rem);
+}

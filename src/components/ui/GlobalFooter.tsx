@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function GlobalFooter() {
 	return (
-		<footer className='footer px-24 py-10 text-primary-content mt-12'>
+		<footer className='footer px-24 py-2 text-primary-content my-2 h-36 z-40'>
 			<Image
 				src='/DFALogotransp.png'
 				width={80}

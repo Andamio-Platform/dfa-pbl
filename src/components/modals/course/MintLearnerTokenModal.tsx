@@ -21,7 +21,7 @@ const MintLearnerTokenModal = () => {
 		<div>
 			<button
 				onClick={openModal}
-				className='btn btn-success rounded-md drop-shadow text-black rounded-lg hover:scale-105 mx-auto'
+				className='btn btn-success btn-md rounded-lg drop-shadow text-black hover:scale-105 mx-auto'
 				type='button'>
 				Mint Your Learner Token
 			</button>

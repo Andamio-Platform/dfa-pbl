@@ -39,11 +39,12 @@ export default function RootLayout({
 			className={`${source_code_pro.variable} ${martel_sans.variable}`}>
 			<body>
 				<Providers>
-					<div className='absolute inset-0 bg-black opacity-75'></div>
-					<div className='flex flex-col bg-test-1 bg-cover bg-fixed min-h-screen'>
-						<GlobalNav />
-						{children}
-						<GlobalFooter />
+					<div className='absolute inset-0 bg-black opacity-85 min-h-screen'>
+						<div className='flex flex-col bg-test-1 bg-cover bg-fixed min-h-screen'>
+							<GlobalNav />
+							{children}
+							<GlobalFooter />
+						</div>
 					</div>
 				</Providers>
 			</body>

@@ -78,8 +78,8 @@ export default function ViewLearnerTokenData() {
 
 	return (
 		<div className='grid grid-cols-2 gap-5 w-full'>
-			<div className='col-span-2 card shadow-xl p-5 bg-secondary text-secondary-content rounded-lg drop-shadow'>
-				<h2 className='text-2xl text-secondary-content font-mono pb-3'>
+			<div className='col-span-2 card shadow-xl p-5 bg-secondary text-primary rounded-lg drop-shadow'>
+				<h2 className='text-2xl text-primary font-mono pb-3'>
 					Your Learner Token
 				</h2>
 

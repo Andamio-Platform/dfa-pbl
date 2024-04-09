@@ -1,7 +1,7 @@
 ---
 {
   "title": "Be a Deep Funding reviewer",
-  "slt": ["202.1"],
+  "slt": ["202.1, 202.2, 202.3"],
   "type": "Assignment",
   "description": "",
   "videoURL": "",

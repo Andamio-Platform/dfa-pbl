@@ -44,7 +44,7 @@ export const andamioConfig: AndamioConfig<CourseManagementConfig> = {
 		coursemanagementNftArtwork: {
 			// move to a file?
 			learnerNFTURL:
-				"[url=https://ibb.co/FsVj0QJ][img]https://i.ibb.co/FsVj0QJ/DFA-PBL1-Learner.png[/img][/url]",
+				"https://ipfs.io/ipfs/QmVxXfPRnqbN5EKCLhvX666NYCvXjD1Br9fDpD1JdY8xMx?filename=DFA_PBL1_Learner.png",
 			courseModuleNFTURL: "https://www.andamio.io/andamio.png",
 			courseCreatorNFTURL: "https://www.andamio.io/andamio.png",
 			courseDeciderNFTURL: "https://www.andamio.io/andamio.png"

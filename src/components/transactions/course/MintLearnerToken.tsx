@@ -83,8 +83,10 @@ const MintLearnerToken = (props: { closeModal: () => void }) => {
 						</form>
 					</div>
 					{tokenAlias.length > 4 ? (
-						<button onClick={handleClick} className='btn btn-success'>
-							Confirm Mint
+						<button
+							onClick={handleClick}
+							className='btn btn-success btn-wide rounded-lg drop-shadow hover:scale-105'>
+							Confirm
 						</button>
 					) : (
 						<div className='font-mono text-info text-sm uppercase'>

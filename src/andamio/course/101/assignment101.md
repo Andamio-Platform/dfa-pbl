@@ -1,7 +1,7 @@
 ---
 {
   "title": "Minting your DFA Learner Token",
-  "slt": ["101.2"],
+  "slt": ["101.1, 101.2"],
   "type": "Assignment",
   "description": "",
   "videoURL": "https://www.youtube.com/watch?v=CnXzI4B_pmU",

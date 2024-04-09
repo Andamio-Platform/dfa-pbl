@@ -62,7 +62,7 @@ const UpdateLearnerDatum = (props: {
 					/>
 				) : null}
 				<div className='grid grid-cols-1 p-5 mx-auto'>
-					<div className='md:col-span-2 p-5 mx-5 bg-secondary text-secondary-content'>
+					<div className='md:col-span-2 p-5 mx-5 bg-secondary text-secondary-content rounded-lg drop-shadow'>
 						<h3 className='text-xl pb-5'>Your Current Learner Info:</h3>
 						<p className='font-bold'>
 							{hexToString(props.learnerReferenceUTxO.datum.fields[2])}
@@ -95,7 +95,7 @@ const UpdateLearnerDatum = (props: {
 							</form>
 						</div>
 						<button
-							className='btn btn-md btn-success p-3 rounded-lg drop-shadow hover:scale-105'
+							className='btn btn-md btn-success p-3 rounded-lg drop-shadow hover:bg-primary hover:text-primary-content hover:scale-105'
 							onClick={handleClick}>
 							Update My Student Info
 						</button>

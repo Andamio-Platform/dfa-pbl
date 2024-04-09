@@ -4,19 +4,15 @@
 	"modules": [
 		{
 			"id": "101",
-			"title": "Navigating DeepFunding Academy",
+			"title": "Navigating the Deep Funding Academy",
 			"slts": [
 				{
 					"id": "101.1",
-					"slt": "I know where to introduce myself and ask questions to the DFA Community."
+					"slt": "I know where to introduce myself and ask questions to the DFA Community"
 				},
 				{
 					"id": "101.2",
-					"slt": "I can create a Nami wallet and connect it to Preprod."
-				},
-				{
-					"id": "101.3",
-					"slt": "I can mint an DFA Course Token."
+					"slt": "I can create a Nami wallet and connect it to the preProd tesnet network"
 				}
 			]
 		},
@@ -26,15 +22,11 @@
 			"slts": [
 				{
 					"id": "102.1",
-					"slt": "I know where to learn about Deep Funding."
+					"slt": "I know where to learn about Deep Funding"
 				},
 				{
 					"id": "102.2",
-					"slt": "I know where to find documentation about funding Rounds and the different Project Pools."
-				},
-				{
-					"id": "102.3",
-					"slt": "I can share my opinion of DeepFunding and SingularityNET’s mission and vision with the DeepFunding Academy community."
+					"slt": "I know where to find documentation about funding Rounds and the different Project Pools"
 				}
 			]
 		},
@@ -48,11 +40,11 @@
 				},
 				{
 					"id": "201.2",
-					"slt": "I can write a consistent and eligible proposal."
+					"slt": "I can write a consistent and eligible proposal"
 				},
 				{
 					"id": "201.3",
-					"slt": "I can design a coherent Milestone Budget."
+					"slt": "I can design a coherent Milestone Budget"
 				}
 			]
 		},
@@ -62,11 +54,11 @@
 			"slts": [
 				{
 					"id": "202.1",
-					"slt": "I can write a high-quality review of a proposal."
+					"slt": "I can write a high-quality review of a proposal"
 				},
 				{
 					"id": "202.2",
-					"slt": "I can follow the DFA guidelines when reviewing a proposal."
+					"slt": "I can follow the DFA guidelines when reviewing a proposal"
 				},
 				{
 					"id": "202.3",
@@ -80,11 +72,11 @@
 			"slts": [
 				{
 					"id": "203.1",
-					"slt": "I can vote in a Deep Funding Round."
+					"slt": "I can vote in a Deep Funding Round"
 				},
 				{
 					"id": "203.2",
-					"slt": "I can calculate my voting power on Deep Funding."
+					"slt": "I can calculate my voting power on Deep Funding"
 				}
 			]
 		}

@@ -48,7 +48,7 @@ const UpdateLearnerDatumModal = (props: {
 				<>
 					<button
 						onClick={openModal}
-						className='btn btn-info btn-sm rounded-md drop-shadow'
+						className='btn btn-info btn-md rounded-lg drop-shadow hover:scale-105 hover:bg-primary hover:text-primary-content'
 						type='button'>
 						Update my Learner Info
 					</button>

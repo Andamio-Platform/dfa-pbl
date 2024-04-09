@@ -12,7 +12,8 @@ const Modal: React.FC<ModalProps> = ({ isOpen, closeModal, content }) => {
 
 	return (
 		<div className={styles.modalBackdrop}>
-			<div className='card p-3 w-1/2 bg-secondary text-primary rounded-lg drop-shadow'>
+			<div
+				className={`${styles.modalContent} card p-3 w-1/2 bg-secondary text-primary rounded-lg drop-shadow`}>
 				<div className={styles.closeButton} onClick={closeModal}>
 					<div className='text-lg'>&times;</div>
 				</div>

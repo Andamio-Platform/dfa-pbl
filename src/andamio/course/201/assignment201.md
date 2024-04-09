@@ -1,7 +1,7 @@
 ---
 {
   "title": "Show your work",
-  "slt": ["201.1"],
+  "slt": ["201.1, 201.2, 201.3"],
   "type": "Assignment",
   "description": "",
   "videoURL": "",
